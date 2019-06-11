@@ -28,8 +28,17 @@ Ik kijk eerst goed naar de ‘webshop’ Time For Wine, ik kijk goed naar de pag
 - - [ ] [Item page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/item.psd)
 - - [ ] [Deals page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/deals.psd)
 - - [ ] [Cocktail page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/cocktail.psd)
-- [ ] Pages (progress 1/5) [home page DONE]
-- [ ] Testing 
+- [ ] Pages
+- - [x] [Home page](http://24721.hosts1.ma-cloud.nl/timeforbooze/)
+- - [x] [Booze page](http://24721.hosts1.ma-cloud.nl/timeforbooze/booze)
+- - [ ] [Item page](http://24721.hosts1.ma-cloud.nl/timeforbooze/booze/beer)
+- - [ ] [Deals page](http://24721.hosts1.ma-cloud.nl/timeforbooze/deals)
+- - [ ] [Cocktail page](http://24721.hosts1.ma-cloud.nl/timeforbooze/cocktail)
+- [ ] Testing
+- - [ ] SEO
+- - [ ] Errors
+- - [ ] Fonts
+- - [ ] responsiveness
 - [ ] UXD
 - [ ] reworking with UXD notes
 
