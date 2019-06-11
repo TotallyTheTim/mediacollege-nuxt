@@ -1,0 +1,52 @@
+[
+  {
+    "id" : 1,
+    "name" : "Wine",
+    "price" : 14.99,
+    "percentage" : 5,
+    "amount" : 192,
+    "spec" : "12 x 25cl",
+    "brand" : "Barefoot",
+    "allergies": "Pip/Stone fruit"
+  },
+  {
+    "id" : 2,
+    "name" : "More wine",
+    "price" : 17.99,
+    "percentage" : 5,
+    "amount" : 122,
+    "spec" : "24 x 25cl",
+    "brand" : "Blossom Hill",
+    "allergies": "Pip/Stone fruit"
+  },
+  {
+    "id" : 3,
+    "name" : "Even more fucking wine",
+    "price" : 27.99,
+    "percentage" : 5,
+    "amount" : 81,
+    "spec" : "6 x 50cl",
+    "brand" : "Barefoot",
+    "allergies": "Pip/Stone fruit"
+  },
+  {
+    "id" : 4,
+    "name" : "That's a lot of wine",
+    "price" : 34.99,
+    "percentage" : 2,
+    "amount" : 81,
+    "spec" : "6 x 30cl",
+    "brand" : "Barefoot",
+    "allergies": "Pip/Stone fruit"
+  },
+  {
+    "id" : 5,
+    "name" : "STOP WITH THE WINE",
+    "price" : 36.99,
+    "percentage" : 4.5,
+    "amount" : 81,
+    "spec" : "24 x 33cl",
+    "brand" : "Blossom Hill",
+    "allergies": "Pip/Stone fruit"
+  }
+]

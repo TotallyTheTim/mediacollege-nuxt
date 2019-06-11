@@ -1,0 +1,52 @@
+[
+  {
+    "id" : 1,
+    "name" : "Pilsener 12 pack",
+    "price" : 11.99,
+    "percentage" : 5,
+    "amount" : 192,
+    "spec" : "12 x 25cl",
+    "brand" : "Heineken",
+    "allergies": "Gluten"
+  },
+  {
+    "id" : 2,
+    "name" : "Pilsener Case",
+    "price" : 17.99,
+    "percentage" : 5,
+    "amount" : 122,
+    "spec" : "24 x 25cl",
+    "brand" : "Heineken",
+    "allergies": "Gluten"
+  },
+  {
+    "id" : 3,
+    "name" : "Pilsener 6pack",
+    "price" : 7.99,
+    "percentage" : 5,
+    "amount" : 81,
+    "spec" : "6 x 50cl",
+    "brand" : "Heineken",
+    "allergies": "Gluten"
+  },
+  {
+    "id" : 4,
+    "name" : "Radler Citroen 6pack",
+    "price" : 4.99,
+    "percentage" : 2,
+    "amount" : 81,
+    "spec" : "6 x 30cl",
+    "brand" : "Amstel",
+    "allergies": "Gluten"
+  },
+  {
+    "id" : 5,
+    "name" : "Extra Mexican Pilsener Case",
+    "price" : 24.99,
+    "percentage" : 4.5,
+    "amount" : 81,
+    "spec" : "24 x 33cl",
+    "brand" : "Corona",
+    "allergies": "Gluten"
+  }
+]

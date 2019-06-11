@@ -1,0 +1,52 @@
+[
+  {
+    "id" : 1,
+    "name" : "London dry Gin",
+    "price" : 11.99,
+    "percentage" : 5,
+    "amount" : 192,
+    "spec" : "12 x 25cl",
+    "brand" : "brokers",
+    "allergies": "Pip/Stone fruit"
+  },
+  {
+    "id" : 2,
+    "name" : "Vodka",
+    "price" : 17.99,
+    "percentage" : 5,
+    "amount" : 122,
+    "spec" : "24 x 25cl",
+    "brand" : "Absolut",
+    "allergies": "None"
+  },
+  {
+    "id" : 3,
+    "name" : "Energy drink 6 pack",
+    "price" : 10.99,
+    "percentage" : 0,
+    "amount" : 81,
+    "spec" : "6 x 50cl",
+    "brand" : "Redbull",
+    "allergies": "Pip/Stone fruit"
+  },
+  {
+    "id" : 4,
+    "name" : "Coconut liqour",
+    "price" : 13.99,
+    "percentage" : 2,
+    "amount" : 81,
+    "spec" : "70cl",
+    "brand" : "Malibu",
+    "allergies": "None"
+  },
+  {
+    "id" : 5,
+    "name" : "Sheridan's Double",
+    "price" : 17.99,
+    "percentage" : 15.5,
+    "amount" : 81,
+    "spec" : "24 x 33cl",
+    "brand" : "Sheridans",
+    "allergies": "Pip/Stone fruit"
+  }
+]

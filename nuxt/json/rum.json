@@ -1,0 +1,52 @@
+[
+  {
+    "id" : 1,
+    "name" : "Rum",
+    "price" : 11.99,
+    "percentage" : 5,
+    "amount" : 192,
+    "spec" : "12 x 25cl",
+    "brand" : "Jack daniels",
+    "allergies": "None"
+  },
+  {
+    "id" : 2,
+    "name" : "You wouldn't beleive it, Rum!",
+    "price" : 17.99,
+    "percentage" : 5,
+    "amount" : 122,
+    "spec" : "24 x 25cl",
+    "brand" : "Jack Daniels",
+    "allergies": "None"
+  },
+  {
+    "id" : 3,
+    "name" : "Probably rum idk",
+    "price" : 7.99,
+    "percentage" : 5,
+    "amount" : 81,
+    "spec" : "6 x 50cl",
+    "brand" : "Captain Morgan",
+    "allergies": "None"
+  },
+  {
+    "id" : 4,
+    "name" : "Morgan's freeman's rum",
+    "price" : 4.99,
+    "percentage" : 2,
+    "amount" : 81,
+    "spec" : "6 x 30cl",
+    "brand" : "Captain Morgan",
+    "allergies": "Nuts"
+  },
+  {
+    "id" : 5,
+    "name" : "Extra rummy rum.",
+    "price" : 24.99,
+    "percentage" : 4.5,
+    "amount" : 81,
+    "spec" : "24 x 33cl",
+    "brand" : "Captain Morgan",
+    "allergies": "None"
+  }
+]
