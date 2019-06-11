@@ -22,8 +22,12 @@ Ik kijk eerst goed naar de ‘webshop’ Time For Wine, ik kijk goed naar de pag
 
 - [x] Setup a github
 - [x] Wireframe & Logo
-- [ ] Designs
-- - [ ] Home
+- [-] Designs
+- - [x][Home page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/home.psd)
+- - [x] [Booze page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/booze.psd)
+- - [ ] [Item page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/item.psd)
+- - [ ] [Deals page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/deals.psd)
+- - [ ] [Cocktail page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/cocktail.psd)
 - [ ] Pages (progress 1/5) [home page DONE]
 - [ ] Testing 
 - [ ] UXD
