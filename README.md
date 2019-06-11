@@ -16,7 +16,7 @@
 - [timeforbooze](http://24721.hosts1.ma-cloud.nl/timeforbooze/)
 
 # Startdocument
-- [pdfje](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/Opdracht%20Webshop.pdf)
+- [pdfje](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/WEBSHOP.md)
 _nu met een planning!_
 
 
