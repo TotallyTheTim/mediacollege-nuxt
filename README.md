@@ -12,4 +12,6 @@
 - [hier](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/WEBSHOP.MD)
 _nu met een planning en designs!!_
 
+## How to run
+- [README.md](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/nuxt/README.md)
 
