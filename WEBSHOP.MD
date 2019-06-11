@@ -23,7 +23,7 @@ Ik kijk eerst goed naar de ‘webshop’ Time For Wine, ik kijk goed naar de pag
 - [x] Setup a github
 - [x] Wireframe & Logo
 - [ ] Designs
--- [ ] Home
+- - [ ] Home
 - [ ] Pages (progress 1/5) [home page DONE]
 - [ ] Testing 
 - [ ] UXD
