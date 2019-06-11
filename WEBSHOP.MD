@@ -45,5 +45,3 @@ Ik kijk eerst goed naar de ‘webshop’ Time For Wine, ik kijk goed naar de pag
 - [ ] reworking with UXD notes 20/6/19
 _time for human-error and missplanning_
 - [ ] Finished project 27/6/19
-
-Alles is te vinden op m’n github. 
