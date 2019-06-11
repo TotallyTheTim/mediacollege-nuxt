@@ -19,27 +19,30 @@ Alleen met een groter assortiment.
 
 ### Planning
 Ik kijk eerst goed naar de ‘webshop’ Time For Wine, ik kijk goed naar de pagina’s en zet dit in een wireframe, hierbij ga ik designs maken voor een aantal van de pagina’s en natuurlijk een logo d’r bij.
-
-- [x] Setup a github
-- [x] Wireframe & Logo
+(geplande datum er achter.)
+- [x] This document 25/5/19
+- [x] Setup a github 25/5/19
+- [x] Wireframe & Logo 25/5/19
 - [ ] Designs
-- - [x] [Home page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/home.psd)
-- - [x] [Booze page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/booze.psd)
-- - [ ] [Item page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/item.psd)
-- - [ ] [Deals page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/deals.psd)
-- - [ ] [Cocktail page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/cocktail.psd)
+- - [x] [Home page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/home.psd) 29/5/19
+- - [x] [Booze page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/booze.psd) 5/6/19
+- - [ ] [Item page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/item.psd) 5/6/19
+- - [ ] [Deals page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/deals.psd) 14/6/19
+- - [ ] [Cocktail page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/cocktail.psd) 14/6/19
 - [ ] Pages
-- - [x] [Home page](http://24721.hosts1.ma-cloud.nl/timeforbooze/)
-- - [x] [Booze page](http://24721.hosts1.ma-cloud.nl/timeforbooze/booze)
-- - [ ] [Item page](http://24721.hosts1.ma-cloud.nl/timeforbooze/booze/beer)
-- - [ ] [Deals page](http://24721.hosts1.ma-cloud.nl/timeforbooze/deals)
-- - [ ] [Cocktail page](http://24721.hosts1.ma-cloud.nl/timeforbooze/cocktail)
-- [ ] Testing
+- - [x] [Home page](http://24721.hosts1.ma-cloud.nl/timeforbooze/) 30/5/19
+- - [x] [Booze page](http://24721.hosts1.ma-cloud.nl/timeforbooze/booze) 7/6/19
+- - [ ] [Item page](http://24721.hosts1.ma-cloud.nl/timeforbooze/booze/beer) 7/6/19
+- - [ ] [Deals page](http://24721.hosts1.ma-cloud.nl/timeforbooze/deals)  18/6/19
+- - [ ] [Cocktail page](http://24721.hosts1.ma-cloud.nl/timeforbooze/cocktail) 18/6/19
+- [ ] Testing 19/6/19
 - - [ ] SEO
 - - [ ] Errors
 - - [ ] Fonts
 - - [ ] responsiveness
-- [ ] UXD
-- [ ] reworking with UXD notes
+- [ ] UXD 20/6/19
+- [ ] reworking with UXD notes 20/6/19
+_time for human-error and missplanning_
+- [ ] Finished project 27/6/19
 
 Alles is te vinden op m’n github. 
