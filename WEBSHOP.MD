@@ -21,7 +21,7 @@ Alleen met een groter assortiment.
 Ik kijk eerst goed naar de ‘webshop’ Time For Wine, ik kijk goed naar de pagina’s en zet dit in een wireframe, hierbij ga ik designs maken voor een aantal van de pagina’s en natuurlijk een logo d’r bij.
 (geplande datum er achter.)
 - [x] This document 25/5/19
-- [x] Setup a github 25/5/19
+- [x] Setup this github 25/5/19
 - [x] Wireframe & Logo 25/5/19
 - [ ] Designs
 - - [x] [Navigation bar](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/navbar.psd) 29/5/19
@@ -37,11 +37,15 @@ Ik kijk eerst goed naar de ‘webshop’ Time For Wine, ik kijk goed naar de pag
 - - [ ] [Deals page](http://24721.hosts1.ma-cloud.nl/timeforbooze/deals)  18/6/19
 - - [ ] [Cocktail page](http://24721.hosts1.ma-cloud.nl/timeforbooze/cocktail) 18/6/19
 - [ ] Testing 19/6/19
-- - [ ] SEO
+- - [ ] SEO 
 - - [ ] Errors
 - - [ ] Fonts
 - - [ ] responsiveness
 - [ ] UXD 20/6/19
+- - _don't have notes/tasks yet_
 - [ ] reworking with UXD notes 20/6/19
 _time for human-error and missplanning_
 - [ ] Finished project 27/6/19
+
+####notes about planning
+The [Booze page](http://24721.hosts1.ma-cloud.nl/timeforbooze/booze) took longer than expected because I've added in a plugin to search and a plugin for the Front-awesome icons. Because of this I was a bit behind scedule and didn't get to do the Item page in the same day.
