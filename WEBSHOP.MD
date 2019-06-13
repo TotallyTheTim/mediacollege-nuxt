@@ -17,6 +17,7 @@ NuxtJS is een hoger level framework dat bouwt op het VueJS framework. Het simpli
 Dit word een soort van ‘update’ van de website [Time for Wine](http://15799.hosts.ma-cloud.nl/timeforwine/)
 Alleen met een groter assortiment, anders styling en vibe.
 
+***
 ### Planning
 - [x] This document 25/5/19
 
@@ -54,6 +55,8 @@ Alleen met een groter assortiment, anders styling en vibe.
 _time for human-error and missplanning_
 
 - [ ] Finished project 27/6/19
+
+***
 
 #### notes about planning
 There are some Continous things like "UXD" that I'll ask my friends and family weekly bit the Final BIG test is on the 20th of June.
