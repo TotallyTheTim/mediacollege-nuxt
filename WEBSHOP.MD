@@ -19,8 +19,11 @@ Alleen met een groter assortiment, anders styling en vibe.
 
 ### Planning
 - [x] This document 25/5/19
+
 - [x] Setup this github 25/5/19
+
 - [x] Wireframe & Logo 25/5/19
+
 - [ ] Designs
   - [x] [Navigation bar](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/navbar.psd) 29/5/19
   - [x] [Home page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/home.psd) 29/5/19
@@ -28,25 +31,32 @@ Alleen met een groter assortiment, anders styling en vibe.
   - [x] [Item page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/item.psd) 5/6/19
   - [ ] [Deals page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/deals.psd) 14/6/19
   - [ ] [Cocktail page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/cocktail.psd) 14/6/19
+
 - [ ] Pages
   - [x] [Home page](http://24721.hosts1.ma-cloud.nl/timeforbooze/) 30/5/19
   - [x] [Booze page](http://24721.hosts1.ma-cloud.nl/timeforbooze/booze) 7/6/19
   - [ ] [Item page](http://24721.hosts1.ma-cloud.nl/timeforbooze/booze/beer) 7/6/19
   - [ ] [Deals page](http://24721.hosts1.ma-cloud.nl/timeforbooze/deals)  18/6/19
   - [ ] [Cocktail page](http://24721.hosts1.ma-cloud.nl/timeforbooze/cocktail) 18/6/19
+  
 - [ ] Testing 19/6/19
   - [ ] SEO 
   - [ ] Errors
   - [ ] Fonts 
   - [ ] Responsiveness
   - [ ] Routing
+  
 - [ ] UXD 20/6/19
   - _don't have notes/tasks yet_
+  
 - [ ] reworking with UXD notes 20/6/19
+
 _time for human-error and missplanning_
+
 - [ ] Finished project 27/6/19
 
 #### notes about planning
 There are some Continous things like "UXD" that I'll ask my friends and family weekly bit the Final BIG test is on the 20th of June.
 I also constantly test for Errors, responsiveness and routing. These will ofcourse also have a Final testing.
+
 The [Booze page](http://24721.hosts1.ma-cloud.nl/timeforbooze/booze) took longer than expected because I've added in a plugin to search and a plugin for the Front-awesome icons. Because of this I was a bit behind scedule and didn't get to do the Item page in the same day.
