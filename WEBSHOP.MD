@@ -41,7 +41,7 @@ Alleen met een groter assortiment, anders styling en vibe.
 - - [ ] Responsiveness
 - - [ ] Routing
 - [ ] UXD 20/6/19
-- - _don't have notes/tasks yet_
+  - _don't have notes/tasks yet_
 - [ ] reworking with UXD notes 20/6/19
 _time for human-error and missplanning_
 - [ ] Finished project 27/6/19
