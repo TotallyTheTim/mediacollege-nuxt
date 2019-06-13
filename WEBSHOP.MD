@@ -47,5 +47,5 @@ Ik kijk eerst goed naar de ‘webshop’ Time For Wine, ik kijk goed naar de pag
 _time for human-error and missplanning_
 - [ ] Finished project 27/6/19
 
-####notes about planning
+###notes about planning
 The [Booze page](http://24721.hosts1.ma-cloud.nl/timeforbooze/booze) took longer than expected because I've added in a plugin to search and a plugin for the Front-awesome icons. Because of this I was a bit behind scedule and didn't get to do the Item page in the same day.
