@@ -27,7 +27,7 @@ Ik kijk eerst goed naar de ‘webshop’ Time For Wine, ik kijk goed naar de pag
 - - [x] [Navigation bar](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/navbar.psd) 29/5/19
 - - [x] [Home page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/home.psd) 29/5/19
 - - [x] [Booze page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/booze.psd) 5/6/19
-- - [ ] [Item page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/item.psd) 5/6/19
+- - [x] [Item page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/item.psd) 5/6/19
 - - [ ] [Deals page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/deals.psd) 14/6/19
 - - [ ] [Cocktail page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/cocktail.psd) 14/6/19
 - [ ] Pages
