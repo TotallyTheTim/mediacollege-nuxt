@@ -4,7 +4,7 @@
 Ik heb voor dit project gekozen omdat het me een leuk idee leek om een clickable prototype te maken voor een webshop. Ook had ik al gelijk een idee over hoe ik dit zou doen en wat de planning is.
 
 ### Doelgroep
-De doelgroep voor dit project is kopers van drank. Uit eigen ervaring kopen mensen van alle leeftijden drank. De gemiddelde koop van deze doelgroep is erg diverse, sommige mensen kopen wekelijks een paar flessen erbij en sommige alleen voor een speciale gelegenheid.
+De doelgroep voor dit project is kopers van drank. Uit eigen ervaring kopen mensen van alle leeftijden drank (18+). De gemiddelde koop van deze doelgroep is erg diverse, sommige mensen kopen wekelijks een paar flessen erbij en sommige alleen voor een speciale gelegenheid.
 
 ### Mijn Idee
 Ik had al een goed idee in gedachten over hoe deze webshop perfect zou zijn voor de doelgroep. Met unieke deals die ook afwisselen zodat iedereen wel is wat leuks d'r tussen ziet staan. Dit maakt het ook gelijk wat unieker. 
