@@ -2,6 +2,7 @@
   <div>
     <navBar />
     <nuxt />
+    <!--<contact/>-->
   </div>
 </template>
 
@@ -122,15 +123,18 @@ html {
 
 
   .transition-enter-active, .transition-leave-active {
-      transition: .5s;
+      max-height: 3000px;
+    transition: 0.5s;
   }
   .transition-leave-active{
-      opacity: 0;
-      transform: translate(0, -300px);
+    margin-top: -20%;
+      /*opacity: 0;*/
+      /*transform: translate(0, -300px);*/
   }
   .transition-enter{
-      opacity: 0;
-      transform: translate(0, 300px);
+    max-height: 0;
+      /*opacity: 0;*/
+      /*transform: translate(0, 300px);*/
   }
   @media (max-width: 1200px) {
     .grid{
@@ -144,10 +148,12 @@ html {
 
 <script>
     import navBar from '~/components/navBar.vue'
+    // import contact from '~/components/home/contact.vue'
 
     export default {
         name: 'layout',
         components: {
+            // contact,
             navBar
         }
     }

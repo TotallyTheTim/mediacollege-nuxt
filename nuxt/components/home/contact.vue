@@ -116,4 +116,8 @@
         background-repeat: no-repeat;
         background-size: cover;
     }
+    section:after{
+        bottom: unset;
+        top: -3vw;
+    }
 </style>

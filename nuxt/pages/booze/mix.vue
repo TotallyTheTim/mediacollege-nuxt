@@ -1,8 +1,10 @@
 <template>
     <section>
-        <br>
-        <br>
-        <br>
-        Wow. Mix!
+        <!--<singleItem />-->
+        WOW
+        BOOZE
+        THATS
+        SO
+        COOL!
     </section>
 </template>

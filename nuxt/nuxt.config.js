@@ -63,8 +63,6 @@ export default {
   ** Nuxt.js modules
   */
     modules: [
-        'nuxt-fontawesome',
-        //OR like this
         ['nuxt-fontawesome', {
             component: 'icon',
             imports: [
