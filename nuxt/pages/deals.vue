@@ -1,9 +1,0 @@
-<template>
-    <section>
-        <br>
-        <br>
-        <br>
-        <br>
-        Deals
-    </section>
-</template>

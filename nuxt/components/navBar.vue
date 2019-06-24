@@ -5,13 +5,11 @@
         </div>
         <div class="grid" :class="{'showingMobile' : hamburger}">
             <div class="links">
-                <nuxt-link  to="/" exact v-on:click="hamburger = false">Home</nuxt-link>
+                <nuxt-link  to="/" exact>Home</nuxt-link>
                 <div class="between"/>
-                <nuxt-link  to="/booze" v-on:click="hamburger = false">Booze</nuxt-link>
+                <nuxt-link  to="/booze">Booze</nuxt-link>
                 <div class="between"/>
-                <nuxt-link  to="/deals" v-on:click="hamburger = false">Deals</nuxt-link>
-                <div class="between"/>
-                <nuxt-link  to="/about" v-on:click="hamburger = false">About</nuxt-link>
+                <nuxt-link  to="/about">About</nuxt-link>
                 <div class="between"/>
                 <nuxt-link  to="/cocktail">Cocktail</nuxt-link>
             </div>
@@ -63,7 +61,7 @@
     }
     .links{
         color: var(--dark);
-        font-family: "Pointedly Mad";
+        font-family: PointedlyMad, sans-serif;
         font-size: 32px;
         grid-column: 1/ span 5;
     }

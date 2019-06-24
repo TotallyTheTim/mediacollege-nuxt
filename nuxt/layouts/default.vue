@@ -124,17 +124,15 @@ html {
 
   .transition-enter-active, .transition-leave-active {
       max-height: 3000px;
-    transition: 0.5s;
+      transition: 0.5s;
   }
   .transition-leave-active{
-    margin-top: -20%;
-      /*opacity: 0;*/
-      /*transform: translate(0, -300px);*/
+      opacity: 0;
+      transform: translate(0, -300px);
   }
   .transition-enter{
-    max-height: 0;
-      /*opacity: 0;*/
-      /*transform: translate(0, 300px);*/
+      opacity: 0;
+      transform: translate(0, 300px);
   }
   @media (max-width: 1200px) {
     .grid{

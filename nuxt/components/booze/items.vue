@@ -240,13 +240,11 @@
     section{
         position: relative;
         background: var(--alt);
-        /*background-image: url('https://therealbarman.com/wp-content/uploads/2018/08/Bar-Background.png');*/
         background-image: url('https://picsum.photos/1080/720?random=2&blur=3');
         background-attachment: fixed;
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
-        --radius: 5px;
     }
     .icon{
         width: 30px;
