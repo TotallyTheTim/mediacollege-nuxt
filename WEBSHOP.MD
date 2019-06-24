@@ -45,9 +45,10 @@ Alleen met een groter assortiment, anders styling en vibe.
   - [X] Responsiveness
   - [X] Routing
   
-- [ ] UXD 20/6/19
+- [ ] UXD 20/6/19 _Thanks to Joël and Thomas_
   - [ ] all deals and items need prices
   - [ ] need some 'proffesional names'
+  - [ ] hamburger doesn't close onclick
   - [ ] EXTRA product pages need item + brand + prices. (and possible images connected to the related booze)
   
 - [ ] reworking with UXD notes 20/6/19
