@@ -36,7 +36,7 @@ Alleen met een groter assortiment, anders styling en vibe.
 - [ ] Pages
   - [x] [Home page](http://24721.hosts1.ma-cloud.nl/timeforbooze/) 30/5/19
   - [x] [Booze page](http://24721.hosts1.ma-cloud.nl/timeforbooze/booze) 7/6/19
-  - [ ] [Item page](http://24721.hosts1.ma-cloud.nl/timeforbooze/booze/beer) 7/6/19
+  - [x] [Item page](http://24721.hosts1.ma-cloud.nl/timeforbooze/booze/beer) 7/6/19
   - [ ] [Deals page](http://24721.hosts1.ma-cloud.nl/timeforbooze/deals)  18/6/19
   - [ ] [Cocktail page](http://24721.hosts1.ma-cloud.nl/timeforbooze/cocktail) 18/6/19
   
@@ -61,5 +61,7 @@ _time for human-error and missplanning_
 #### notes about planning
 There are some Continous things like "UXD" that I'll ask my friends and family weekly bit the Final BIG test is on the 20th of June.
 I also constantly test for Errors, responsiveness and routing. These will ofcourse also have a Final testing.
+
+Behind on scedule at 18/6/19 > 25/6/19, reason: misscomunication.
 
 The [Booze page](http://24721.hosts1.ma-cloud.nl/timeforbooze/booze) took longer than expected because I've added in a plugin to search and a plugin for the Front-awesome icons. Because of this I was a bit behind scedule and didn't get to do the Item page in the same day.
