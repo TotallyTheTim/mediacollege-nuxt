@@ -29,26 +29,26 @@ Alleen met een groter assortiment, anders styling en vibe.
   - [x] [Navigation bar](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/navbar.psd) 29/5/19
   - [x] [Home page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/home.psd) 29/5/19
   - [x] [Booze page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/booze.psd) 5/6/19
-  - [x] [Item page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/item.psd) 5/6/19
-  - [ ] [Deals page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/deals.psd) 14/6/19
+  - [x] [Item page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/item.psd) 9/6/19
   - [ ] [Cocktail page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/cocktail.psd) 14/6/19
 
 - [ ] Pages
   - [x] [Home page](http://24721.hosts1.ma-cloud.nl/timeforbooze/) 30/5/19
   - [x] [Booze page](http://24721.hosts1.ma-cloud.nl/timeforbooze/booze) 7/6/19
-  - [x] [Item page](http://24721.hosts1.ma-cloud.nl/timeforbooze/booze/beer) 7/6/19
-  - [ ] [Deals page](http://24721.hosts1.ma-cloud.nl/timeforbooze/deals)  18/6/19
-  - [ ] [Cocktail page](http://24721.hosts1.ma-cloud.nl/timeforbooze/cocktail) 18/6/19
+  - [x] [Item page](http://24721.hosts1.ma-cloud.nl/timeforbooze/booze/beer) 12/6/19
+  - [ ] [Cocktail page](http://24721.hosts1.ma-cloud.nl/timeforbooze/cocktail) 16/6/19
   
-- [ ] Testing 19/6/19
-  - [ ] SEO 
-  - [ ] Errors
-  - [ ] Fonts 
-  - [ ] Responsiveness
-  - [ ] Routing
+- [X] Testing 19/6/19
+  - [X] SEO 
+  - [X] Errors
+  - [X] Fonts 
+  - [X] Responsiveness
+  - [X] Routing
   
 - [ ] UXD 20/6/19
-  - _don't have notes/tasks yet_
+  - [ ] all deals and items need prices
+  - [ ] need some 'proffesional names'
+  - [ ] EXTRA product pages need item + brand + prices. (and possible images connected to the related booze)
   
 - [ ] reworking with UXD notes 20/6/19
 
