@@ -30,13 +30,14 @@ Alleen met een groter assortiment, anders styling en vibe.
   - [x] [Home page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/home.psd) 29/5/19
   - [x] [Booze page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/booze.psd) 5/6/19
   - [x] [Item page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/item.psd) 9/6/19
-  - [ ] [Cocktail page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/cocktail.psd) 14/6/19
+  - [x] [Cocktail page](https://github.com/TotallyTheTim/mediacollege-nuxt/blob/master/designs/cocktail.psd) 14/6/19
 
 - [ ] Pages
   - [x] [Home page](http://24721.hosts1.ma-cloud.nl/timeforbooze/) 30/5/19
   - [x] [Booze page](http://24721.hosts1.ma-cloud.nl/timeforbooze/booze) 7/6/19
   - [x] [Item page](http://24721.hosts1.ma-cloud.nl/timeforbooze/booze/beer) 12/6/19
   - [ ] [Cocktail page](http://24721.hosts1.ma-cloud.nl/timeforbooze/cocktail) 16/6/19
+  - [ ] EXTRA> shopping cat
   
 - [X] Testing 19/6/19
   - [X] SEO 
