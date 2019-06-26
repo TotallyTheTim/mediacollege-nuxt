@@ -10,7 +10,7 @@
             <div class="starbar">
                 <div class="star-off"></div>
                 <div class="star-on" :style="{width: review.stars*20 + '%'}"></div>
-                <img src="~/assets/starbar.png"/>
+                <img src="~/assets/starbar.png" title="beer bottle overlay" alt="beer bottle overlay"/>
             </div>
         </div>
         <div class="total-holder" :style="{gridRow: '2 / span ' + reviews.length}">
@@ -20,7 +20,7 @@
                 <div class="starbar">
                     <div class="star-off"></div>
                     <div class="star-on" :style="{width: stars + '%'}"></div>
-                    <img src="~/assets/starbar.png"/>
+                    <img src="~/assets/starbar.png" title="beer bottle overlay" alt="beer bottle overlay"/>
                 </div>
             </div>
         </div>

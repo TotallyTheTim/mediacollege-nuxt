@@ -40,10 +40,10 @@
                 <div v-if="price < max || search.length || type !== 'All' || allergies !== 'None'">
                     <h3 class="filterTitle"> Filtering on:</h3>
                     <div class="activeFilters">
-                        <div v-if="price < max">Max price: €{{price}} <a @click="price=max"><icon class="close" icon="times-circle" /></a></div>
-                        <div v-if="search.length">Name contains: {{search}} <a @click="search=''"><icon class="close" icon="times-circle" /></a></div>
-                        <div v-if="type !== 'All'">Type of booze: {{type}} <a @click="type='All'"><icon class="close" icon="times-circle" /></a></div>
-                        <div v-if="allergies !== 'None'">Allergies: {{allergies}}<a @click="allergies='None'"><icon class="close" icon="times-circle" /></a></div>
+                        <div v-if="price < max">Max price: €{{price}} <a alt="reset price filter" @click="price=max"><icon class="close" icon="times-circle" /></a></div>
+                        <div v-if="search.length">Name contains: {{search}} <a alt="reset search filter" @click="search=''"><icon class="close" icon="times-circle" /></a></div>
+                        <div v-if="type !== 'All'">Type of booze: {{type}} <a alt="reset type of booze filter" @click="type='All'"><icon class="close" icon="times-circle" /></a></div>
+                        <div v-if="allergies !== 'None'">Allergies: {{allergies}}<a alt="reset allergy filter" @click="allergies='None'"><icon class="close" icon="times-circle" /></a></div>
                     </div>
                 </div>
             </div>
@@ -60,12 +60,13 @@
 
                 <div class="results noResults" v-else>No results found with those filters</div>
 
-                <div class="booze" :class="'bg-' + booze.type" v-for="booze in boozes">
+                <div itemscope itemtype="http://schema.org/Product"  class="booze" :class="'bg-' + booze.type" v-for="booze in boozes">
                     <icon class="icon" :class="'icon-' + booze.type" :icon="getIcon(booze.type)"></icon>
-                    <img class="brand" :src="require(`@/assets/brands/${booze.brand.toLowerCase()}.png`)">
+                    <span itemprop="brand" style="display: none" v-text="booze.brand" />
+                    <img itemprop="logo" class="brand" :src="require(`@/assets/brands/${booze.brand.toLowerCase()}.png`)" :title="'${brand} icon small'" :alt="'${brand} icon small'">
                     <p>{{booze.name}}</p>
                     <span class="boozePrice">{{booze.price}}</span>
-                    <nuxt-link  :to="'booze/' + booze.type" class="noDec">
+                    <nuxt-link :title="'to booze ${booze.type} filtered items page'"   :to="'booze/' + booze.type" class="noDec">
                         <retroBtn
                             alt="small"
                             BtnText="Read more"

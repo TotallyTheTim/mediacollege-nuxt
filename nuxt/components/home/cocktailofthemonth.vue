@@ -1,7 +1,7 @@
 <template>
     <section>
         <div class="bg-overlay"></div>
-        <div class="grid" id="booze">
+        <div class="grid">
             <div class="title fontify">Cocktail of the Month</div>
             <div class="details">
                 <div class="big" />
@@ -15,7 +15,7 @@
                     <p v-text="text.txt"></p>
                 </div>
                 <div class="btn-holder">
-                    <router-link class="noDec" to="/cocktails">
+                    <router-link class="noDec" title="to cocktail page" to="/cocktails">
                         <retroBtn
                                 BtnText="Read more"
                                 :BtnTextHover="text.drink"

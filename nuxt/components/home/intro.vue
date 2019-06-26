@@ -7,7 +7,8 @@
             </div>
             <div class="text-holder">
                 <div>
-                    <h1 class="fontify title" v-text="text.title"></h1>
+                    <h1 class="fontify">Time for Booze</h1>
+                    <h2 class="fontify title" v-text="text.title"></h2>
                     <p class="text-content" v-text="text.txt"></p>
                     <div class="button-holder">
                         <a @click="goToRum()"><retroBtn
@@ -57,6 +58,16 @@
 </script>
 
 <style scoped>
+    h1{
+        text-align: center;
+        width: 100%;
+        font-weight: 100;
+        letter-spacing: .1em;
+    }
+    h2{
+        text-align: center;
+        width: 100%;
+    }
     .bg-overlay{
         width: 100%;
         height: 100%;
@@ -81,7 +92,6 @@
         margin: 0 auto;
     }
     .title{
-        width: max-content;
         font-weight: initial;
         font-size: 42px;
     }

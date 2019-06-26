@@ -3,17 +3,17 @@
 
         <div class="bg-overlay"></div>
         <div class="grid">
-            <h1 class="fontify">Our locations</h1>
+            <h2 class="fontify">Our locations</h2>
             <div class="item big">
                 <div class="map">
-                    <div style="overflow:hidden;width: 100%;position: relative;">
-                        <iframe width="100%" height="auto" src="https://maps.google.com/maps?width=&amp;height=&amp;hl=en&amp;q=Amsterdam%2C%20Nederland+(Amsterdam%20HQ)&amp;ie=UTF8&amp;t=&amp;z=11&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+                    <div>
+                        <iframe title="google map embed" src="https://maps.google.com/maps?width=&amp;height=&amp;hl=en&amp;q=Amsterdam%2C%20Nederland+(Amsterdam%20HQ)&amp;ie=UTF8&amp;t=&amp;z=11&amp;iwloc=B&amp;output=embed"></iframe>
                     </div>
                 </div>
                 <div class="innerbig">
                 <h3>Amsterdam HQ</h3>
                 <b>Mail us!</b>
-                <a href="mailto:info.amsterdam@timeforbooze.net">info.amsterdam@timeforbooze.net</a>
+                <a href="mailto:info.amsterdam@timeforbooze.net" title="mail to amsterdam">info.amsterdam@timeforbooze.net</a>
                 <b>Visit us!</b>
                 <p>1234AB Amsterdam, North Holland</p>
                 </div>
@@ -21,14 +21,14 @@
             <div class="item">
                 <h3>Moscow</h3>
                 <b>Mail us!</b>
-                <a href="mailto:info.moscow@timeforbooze.net">info.moscow@timeforbooze.net</a>
+                <a href="mailto:info.moscow@timeforbooze.net" title="mail to moscow">info.moscow@timeforbooze.net</a>
                 <b>Visit us!</b>
                 <p>5678CD Moscow, Moscow</p>
             </div>
             <div class="item">
                 <h3>Paris</h3>
                 <b>Mail us!</b>
-                <a href="mailto:info.paris@timeforbooze.net">info.paris@timeforbooze.net</a>
+                <a href="mailto:info.paris@timeforbooze.net" title="mail to paris">info.paris@timeforbooze.net</a>
                 <b>Visit us!</b>
                 <p>9012EF Paris, Île-de-France</p>
             </div>
@@ -103,6 +103,15 @@
     }
     .map{
         flex: 1;
+    }
+    .map > div{
+        overflow:hidden;
+        width: 100%;
+        position: relative;
+    }
+    .map > div > iframe{
+        height: auto;
+        width: 100%;
     }
     section{
         position: relative;

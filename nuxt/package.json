@@ -1,7 +1,7 @@
 {
-  "name": "timeForBooze",
+  "name": "TimeForBooze",
   "version": "1.0.0",
-  "description": "'Time for Booze' website based on the 'Time for Wine' website",
+  "description": "'Time for Booze' website based on the 'Time for Wine' website, the website is only a clickable prototype for a student at mediacollege amsterdam",
   "author": "Tim Huijkman",
   "private": true,
   "scripts": {
@@ -12,11 +12,22 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@bazzite/nuxt-optimized-images": "^0.2.1",
     "@fortawesome/free-solid-svg-icons": "^5.9.0",
+    "@nuxtjs/sitemap": "^1.2.0",
+    "brotli-webpack-plugin": "1.1.0",
     "cross-env": "^5.2.0",
+    "iltorb": "^2.4.3",
+    "imagemin-mozjpeg": "^8.0.0",
+    "imagemin-pngquant": "^8.0.0",
     "nuxt": "^2.4.0",
+    "nuxt-compress": "^1.0.2",
     "nuxt-fontawesome": "^0.4.0",
-    "vue-fuse": "^2.1.0"
+    "nuxt-netlify-http2-server-push": "^0.1.3",
+    "responsive-loader": "^1.2.0",
+    "sharp": "^0.22.1",
+    "vue-fuse": "^2.1.0",
+    "webp-loader": "^0.5.0"
   },
   "devDependencies": {
     "nodemon": "^1.18.9"

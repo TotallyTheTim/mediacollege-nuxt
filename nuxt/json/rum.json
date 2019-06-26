@@ -1,21 +1,21 @@
 [
   {
     "id" : 1,
-    "name" : "Rum",
-    "price" : 11.99,
-    "percentage" : 5,
+    "name" : "Whiskey 70cl",
+    "price" : 21.99,
+    "percentage" : 30,
     "amount" : 192,
-    "spec" : "12 x 25cl",
+    "spec" : "1 x 70cl",
     "brand" : "Jack daniels",
     "allergies": "None"
   },
   {
     "id" : 2,
-    "name" : "You wouldn't beleive it, Rum!",
-    "price" : 17.99,
-    "percentage" : 5,
+    "name" : "Whiskey 100cl",
+    "price" : 27.99,
+    "percentage" : 30,
     "amount" : 122,
-    "spec" : "24 x 25cl",
+    "spec" : "1 x 100cl",
     "brand" : "Jack Daniels",
     "allergies": "None"
   },
@@ -31,11 +31,11 @@
   },
   {
     "id" : 4,
-    "name" : "Morgan's freeman's rum",
-    "price" : 4.99,
+    "name" : "Spiced gold",
+    "price" : 14.99,
     "percentage" : 2,
     "amount" : 81,
-    "spec" : "6 x 30cl",
+    "spec" : "1 x 70cl",
     "brand" : "Captain Morgan",
     "allergies": "Nuts"
   },

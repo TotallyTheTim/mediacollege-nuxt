@@ -1,12 +1,11 @@
 <template>
     <div class="logo-parts-holder">
-        <!--<img class="logo" src="~/assets/logoHD.png">-->
-        <img class="background" src="~/assets/logo/bg.png">
-        <img class="bottle" src="~/assets/logo/bottle.png">
-        <img class="clock" src="~/assets/logo/clock.png">
-        <img class="time" src="~/assets/logo/time.png">
-        <img class="for" src="~/assets/logo/for.png">
-        <img class="booze" src="~/assets/logo/booze.png">
+        <img class="background" src="~/assets/logo/bg.png" title="time for booze big background" alt="time for booze big background">
+        <img class="bottle" src="~/assets/logo/bottle.png" title="time for booze big bottle" alt="time for booze big bottle">
+        <img class="clock" src="~/assets/logo/clock.png" title="time for booze big clock" alt="time for booze big clock">
+        <img class="time" src="~/assets/logo/time.png" title="time for booze big text time" alt="time for booze big text time">
+        <img class="for" src="~/assets/logo/for.png" title="time for booze big text for" alt="time for booze big text for">
+        <img class="booze" src="~/assets/logo/booze.png" title="time for booze big text booze" alt="time for booze big text booze">
     </div>
 </template>
 

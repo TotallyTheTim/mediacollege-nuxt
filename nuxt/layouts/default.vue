@@ -149,6 +149,11 @@ html {
     // import contact from '~/components/home/contact.vue'
 
     export default {
+        head () {
+            return {
+                title: "Time for Booze | Webshop clickable prototype"
+            }
+        },
         name: 'layout',
         components: {
             // contact,

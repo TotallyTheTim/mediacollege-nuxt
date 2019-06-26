@@ -3,26 +3,26 @@
         <div class="bg-overlay"></div>
         <div class="grid" id="booze">
             <div class="boozeBtn rum">
-                <nuxt-link tag="div" :to="{ path: '/booze', query: { filter: 'rum' }}">
-                    <h1 class="fontify boozeTitle">Rum</h1>
+                <nuxt-link tag="div" title="to booze rum filtered items page" :to="{ path: '/booze', query: { filter: 'rum' }}">
+                    <h2 class="fontify boozeTitle">Rum</h2>
                     <div class="bottle"></div>
                 </nuxt-link>
             </div>
             <div class="boozeBtn wine">
-                <nuxt-link tag="div" :to="{ path: '/booze', query: { filter: 'wine' }}">
-                    <h1 class="fontify boozeTitle">Wine</h1>
+                <nuxt-link tag="div" title="to booze wine filtered items page"  :to="{ path: '/booze', query: { filter: 'wine' }}">
+                    <h2 class="fontify boozeTitle">Wine</h2>
                     <div class="bottle"></div>
                 </nuxt-link>
             </div>
             <div class="boozeBtn beer">
-                <nuxt-link tag="div" :to="{ path: '/booze', query: { filter: 'beer' }}">
-                    <h1 class="fontify boozeTitle">Beer</h1>
+                <nuxt-link tag="div" title="to booze beer filtered items page"  :to="{ path: '/booze', query: { filter: 'beer' }}">
+                    <h2 class="fontify boozeTitle">Beer</h2>
                     <div class="bottle"></div>
                 </nuxt-link>
             </div>
             <div class="boozeBtn cocktail">
-                <nuxt-link tag="div" :to="{ path: '/booze', query: { filter: 'mix' }}">
-                    <h1 class="fontify boozeTitle">Mixes</h1>
+                <nuxt-link tag="div" title="to booze mix filtered items page"  :to="{ path: '/booze', query: { filter: 'mix' }}">
+                    <h2 class="fontify boozeTitle">Mixes</h2>
                     <div class="bottle"></div>
                 </nuxt-link>
             </div>

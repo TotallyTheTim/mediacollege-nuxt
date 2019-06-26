@@ -5,17 +5,17 @@
         </div>
         <div class="grid" :class="{'showingMobile' : hamburger}">
             <div class="links">
-                <nuxt-link  to="/" exact>Home</nuxt-link>
+                <nuxt-link  to="/" title="to home page" exact>Home</nuxt-link>
                 <div class="between"/>
-                <nuxt-link  to="/booze">Booze</nuxt-link>
+                <nuxt-link  to="/booze" title="to booze page">Booze</nuxt-link>
                 <div class="between"/>
-                <nuxt-link  to="/about">About</nuxt-link>
+                <nuxt-link  to="/about" title="to about page">About</nuxt-link>
                 <div class="between"/>
-                <nuxt-link  to="/cocktail">Cocktail</nuxt-link>
+                <nuxt-link  to="/cocktail" title="to cocktail page">Cocktail</nuxt-link>
             </div>
             <div class="logo">
                 <div />
-                <img src="~/assets/logoHD.png">
+                <img src="~/assets/logo.png" title="time for booze logo" alt="time for booze logo">
             </div>
         </div>
     </div>
