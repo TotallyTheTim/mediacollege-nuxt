@@ -15,6 +15,7 @@ export default {
         },
         title: pkg.name,
         meta: [
+            { charset: 'utf-8' },
             { property: 'og:title', content:"Time for booze webshop"},
             { property: 'og:site_name', content:"webshop timeforbooze"},
             { property: 'og:site', content:"http://24721.hosts1.ma-cloud.nl/timeforbooze/"},
@@ -27,7 +28,6 @@ export default {
             { property: 'twitter:description', content: pkg.description },
             { property: 'twitter:card', content: 'summary' },
             { 'http-equiv': 'X-UA-Compatible', content: 'IE=edge' },
-            { charset: 'utf-8' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
             { hid: 'description', name: 'description', content: pkg.description },
             { hid: 'keyword', name: 'keyword', content: 'timeforbooze' },

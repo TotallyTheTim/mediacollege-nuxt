@@ -27,6 +27,13 @@
             return{
                 hamburger: false,
             }
+        },
+        watch: {
+            '$route': function(oldR, newR){
+                if (newR.path !== oldR.path){
+                    this.hamburger = false;
+                }
+            }
         }
     }
 </script>
